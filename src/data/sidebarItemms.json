@@ -1,0 +1,44 @@
+[
+    {
+        "icon": "/src/assets/sidebar/home.png",
+        "title": "Overview",
+        "subcategories": [
+            "Dashboard",
+            "Analytics",
+            "Reports"
+        ],
+        "arrowIcon": "/src/assets/sidebar/arrow.png"
+    },
+    {
+        "path": "/reports",
+        "icon": "/src/assets/sidebar/report.png",
+        "title": "Your Report"
+    },
+    {
+        "path": "/alerts",
+        "icon": "/src/assets/sidebar/alerts.png",
+        "title": "Alerts",
+        "notification": true,
+        "alerts": 4
+    },
+    {
+        "path": "/simulator",
+        "icon": "/src/assets/sidebar/simulator.png",
+        "title": "Simulator"
+    },
+    {
+        "path": "/education",
+        "icon": "/src/assets/sidebar/education.png",
+        "title": "Education"
+    },
+    {
+        "path": "/upgrade",
+        "icon": "/src/assets/sidebar/upgrade.png",
+        "title": "Upgrade My Plan"
+    },
+    {
+        "path": "/rewards",
+        "icon": "/src/assets/sidebar/rewards.png",
+        "title": "Rewards Program"
+    }
+]
