@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import logo from '../assets/sidebar/logo.png'
 import sidebarItems from '../data/sidebarItemms.json'
 
 const Sidebar = () => {
@@ -13,7 +12,7 @@ const Sidebar = () => {
         <aside className='w-70 bg-sidebarBg text-white max-md:hidden'>
             <div className='mt-10 ml-8'>
                 <img
-                    src={logo}
+                    src="/assets/sidebar/logo.png"
                     alt='netbrahma logo'
                 />
             </div>
