@@ -1,4 +1,4 @@
-import NBScoreTrendChart from './NbScoreTrendChart';
+import NBScoreTrendChart from './NBScoreTrendChart';
 import { ArrowUp, ArrowDown, ArrowRight } from 'lucide-react';
 
 const chartData = [520, 580, 493, 510];
