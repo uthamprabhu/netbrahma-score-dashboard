@@ -3,9 +3,10 @@
         "icon": "/assets/sidebar/home.png",
         "title": "Overview",
         "subcategories": [
-            "Dashboard",
-            "Analytics",
-            "Reports"
+            "Score & Report",
+            "Summary",
+            "History",
+            "Where You Stand"
         ],
         "arrowIcon": "/assets/sidebar/arrow.png"
     },

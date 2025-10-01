@@ -4,6 +4,8 @@
 @theme {
     --color-sidebarBg: #008A00;
     --color-sidebarFocus: #007500;
+    --color-primary: #F7F9FA;
+    --color-tertiary: #262626;
 }
 
 html, body{

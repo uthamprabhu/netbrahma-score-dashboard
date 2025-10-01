@@ -1,0 +1,14 @@
+[
+    {
+        "icon": "/assets/home/eye.png",
+        "title":"View Your NB Report",
+        "path" :"/view-report",
+        "rightArrowIcon": "/assets/home/right_arrow_blue.png"
+    },
+    {
+        "icon": "/assets/home/download_report.png",
+        "title":"Download Your NB Report with summary",
+        "path" :"/download-report",
+        "rightArrowIcon": "/assets/home/right_arrow_blue.png"
+    }
+]

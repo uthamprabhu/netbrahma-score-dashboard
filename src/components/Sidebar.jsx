@@ -40,7 +40,7 @@ const Sidebar = () => {
                                     </div>
 
                                     {active === item.title && (
-                                        <ul className='ml-12 mt-2 flex flex-col gap-1 relative'>
+                                        <ul className='ml-12 mt-2 flex flex-col gap-5 relative'>
                                             <span className='absolute left-[-6px] top-0 w-[1px] h-full bg-white opacity-20'></span>
                                             {item.subcategories.map((sub, i) => (
                                                 <li

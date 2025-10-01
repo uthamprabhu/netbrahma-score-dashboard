@@ -1,0 +1,21 @@
+[
+    {
+        "icon": "/assets/navbar/question.png",
+        "title": "How It Works",
+        "path": "/how-it-works"
+    },
+    {
+        "icon": "/assets/navbar/language.png",
+        "languages": ["English","Hindi","Kannada","Malayalam"]
+    },
+    {
+        "icon": "/assets/navbar/account.png",
+        "title": "My Account",
+        "path": "/profile"
+    },
+    {
+        "icon": "/assets/navbar/logout.png",
+        "title": "logout",
+        "path": "/login"
+    }
+]
