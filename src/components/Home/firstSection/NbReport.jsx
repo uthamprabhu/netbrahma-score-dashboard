@@ -8,7 +8,7 @@ const NbReport = () => {
           <h3 className="font-bold text-[#046899] text-lg">NB Report</h3>
           <p className="text-tertiary">Get your personalized NB Report to plan your financial future.</p>
         </div>
-        <img src="/public/assets/home/report.png" alt="NB Report" />
+        <img src="/assets/home/report.png" alt="NB Report" />
       </div>
       <div className="flex flex-col gap-3">
         {nbReport.map((item, id) => (

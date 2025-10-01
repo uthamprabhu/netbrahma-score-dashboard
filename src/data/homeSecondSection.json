@@ -1,0 +1,16 @@
+[
+    {
+        "icon": "/assets/home/caution_blue.png",
+        "title": "Total Disputes",
+        "metrics": "12",
+        "moreDetails": "Learn more about credit reporting and related policies.",
+        "href": "/read-more",
+        "hrefTitle": "Read More"
+    },
+    {
+        "icon": "/assets/home/report_search_blue.png",
+        "title": "Total Enquiries",
+        "metrics": "05",
+        "moreDetails": "(in the last 3 years)"
+    }
+]
